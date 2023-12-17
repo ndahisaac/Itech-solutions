@@ -311,6 +311,10 @@
     font-size: 18px;
     color: var(--bs-white);
 }
+.mb-4{
+    text-align: justify;
+
+}
 
 /*** Carousel End ***/
 
